@@ -3,5 +3,5 @@
 ## 実装できたこと
 無限スクロール
 
-http://XXX/teisyutu.php
+(http://54.234.63.126 /teisyutu.php )
 
